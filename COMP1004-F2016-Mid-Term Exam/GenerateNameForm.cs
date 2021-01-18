@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 /// <summary>
-/// /// Final Assignment
 /// Author:Arezou Sohrabvand
 /// Student Id:200387480
 /// Date:14/04/2020
